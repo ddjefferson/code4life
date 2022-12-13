@@ -1,0 +1,27 @@
+* {
+  padding: 0.5em;
+  margin: 0.5em;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-decoration: wavy;
+}
+h2 {
+  color: whitesmoke;
+  font-size: xx-small;
+}
+
+btn {
+  background-color: aqua;
+}
+
+btn:hover {
+  background-color: red;
+  cursor: pointer;
+}
